@@ -1,0 +1,5 @@
+The programs sorts an input array using quicksort and switches to a O(n2) sorting strategy when the recursion reaches a list size of 'k' or smaller.
+
+Inputs: 
+1) A command line argument 'k'
+2) A sequence of 32 bit integers from standard input
